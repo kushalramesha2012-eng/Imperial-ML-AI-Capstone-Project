@@ -1,0 +1,19 @@
+=== Best-so-far (using data up to Week 4) ===
+Function 1: best_y=0.000000 | best_idx=2 | points=14 | dim=2
+Function 2: best_y=0.611205 | best_idx=9 | points=14 | dim=2
+Function 3: best_y=-0.013221 | best_idx=15 | points=19 | dim=3
+Function 4: best_y=-0.471335 | best_idx=30 | points=34 | dim=4
+Function 5: best_y=5823.479461 | best_idx=21 | points=24 | dim=4
+Function 6: best_y=-0.498868 | best_idx=20 | points=24 | dim=5
+Function 7: best_y=2.460858 | best_idx=30 | points=34 | dim=6
+Function 8: best_y=9.894432 | best_idx=40 | points=44 | dim=8
+
+=== Week 5 suggestions (READY FOR PORTAL) ===
+Function 1: 0.652299-0.043775
+Function 2: 0.718807-0.999999
+Function 3: 0.451163-0.676920-0.592177
+Function 4: 0.905604-0.077227-0.272570-0.621850
+Function 5: 0.980000-0.980000-0.980000-0.980000
+Function 6: 0.208776-0.001828-0.479017-0.537405-0.000000
+Function 7: 0.099617-0.221403-0.313640-0.206654-0.271980-0.685887
+Function 8: 0.062606-0.794599-0.071308-0.396228-0.403033-0.973574-0.035939-0.983739
